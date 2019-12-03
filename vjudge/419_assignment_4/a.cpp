@@ -5,9 +5,9 @@ using namespace std;
 typedef long long int ll;
 
 void solve(){
-	ll n,m;
-	sc("%lld%lld",&n,&m);
-	cout<<n%m<<endl;
+	double n,m;
+	sc("%lf%lf",&n,&m);
+	cout<<int(ceil(m/n)*n-m)<<endl;
 }
 
 int main() {
