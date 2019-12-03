@@ -1,0 +1,2 @@
+contest-link:https://vjudge.net/contest/344548
+pass: CSE419
